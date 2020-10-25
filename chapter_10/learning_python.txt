@@ -1,0 +1,5 @@
+In Python you can store data in lists and dictionaries.
+In Python you can use 'for' and 'while' loops.
+In Python you can make your programs interactive.
+In Python you can write functions to make parts of your program reusable.
+In Python you can make visual representation of data.
